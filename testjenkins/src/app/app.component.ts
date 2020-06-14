@@ -10,5 +10,5 @@ export class AppComponent {
 
   holssa(){
     console.log(2+2)
-  }
+  
 }
