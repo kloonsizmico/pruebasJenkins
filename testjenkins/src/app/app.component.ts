@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Hola malpartido';
 
-  holssa(){
+  hola(){
     console.log(2+2)
   
 }
