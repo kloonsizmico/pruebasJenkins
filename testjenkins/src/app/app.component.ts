@@ -10,5 +10,5 @@ export class AppComponent {
 
   hola(){
     console.log(2+2)
-  
+  }
 }
